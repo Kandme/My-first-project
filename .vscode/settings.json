@@ -1,0 +1,12 @@
+{
+    // 保存时自动格式化
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  
+    // HTML 输入时自动闭合标签
+    "html.autoClosingTags": true,
+  
+    // Live Server：保存后自动刷新浏览器
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.NoBrowser": false
+  }
